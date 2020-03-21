@@ -70,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Stack
 StoryBook
 **Note: npx -p @storybook/cli sb init
+StoryBook/addon-storyshots
+**Note: npm i @storybook/addon-storyshots react-test-renderer require-context.macro --save-dev
