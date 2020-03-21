@@ -69,12 +69,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Stack
 StoryBook
-** Note:
-npx -p @storybook/cli sb init
-npm i @storybook/addon-storyshots react-test-renderer require-context.macro --save-dev
-**
+`npx -p @storybook/cli sb init`
+`npm i @storybook/addon-storyshots react-test-renderer require-context.macro --save-dev`
 
 ### Config Babel
-**Note: 
-npm i cross-env @babel/cli @babel/preset-env @babel/preset-react --save-dev
-**
+`npm i cross-env @babel/cli @babel/preset-env @babel/preset-react --save-dev`
